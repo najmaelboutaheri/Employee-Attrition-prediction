@@ -16,7 +16,7 @@ The dataset used in this project contains various attributes related to employee
 - **JobRole**: The role of the employee in the company.
 - **MonthlyIncome**: The monthly salary of the employee.
 - **YearsAtCompany**: How long the employee has been with the company.
-- **...**: (List other key features in your dataset.)
+- **...**: (You can find other features in the notebook.)
 
 ## Project Structure
 - **WA_Fn_UseC__HR_Employee_Attrition.ipynb**: This Jupyter notebook contains the entire data processing pipeline, model training, evaluation, and analysis of results.
